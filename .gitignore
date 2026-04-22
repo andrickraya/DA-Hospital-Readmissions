@@ -1,0 +1,14 @@
+# Datos y archivos pesados
+*.csv
+*.xlsx
+*.zip
+
+# Archivos temporales de Python/Jupyter
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.env
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
